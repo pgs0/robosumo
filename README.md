@@ -1,4 +1,4 @@
-# robosumo
+# robosumo mindstorms roboter
 
 Code for Lego Mindstorms Robo Sumo Roboter
 

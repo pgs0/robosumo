@@ -1,6 +1,6 @@
 # robosumo mindstorms roboter
 
-Code for Lego Mindstorms Robo Sumo Roboter
+Code for Lego Mindstorms Robo Sumo Roboter (school project)
 
 feautures:
   - Staying inside a circle with black inside and 10 cm white strip on outside

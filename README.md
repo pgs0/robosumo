@@ -1,4 +1,4 @@
-# robosumo mindstorms roboter
+# robosumo mindstorms roboter (school project)
 
 Code for Lego Mindstorms Robo Sumo Roboter (school project)
 
